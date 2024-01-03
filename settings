@@ -1,5 +1,20 @@
 {
-    "name":"John", 
-    "age":30, 
-    "car":null
+    "web_service":"https://github.com/kordavpn/korda7/raw/main/web6",
+    "timer_hour":"2",
+    "after_connect":"false",
+    "delay_full_Sec":"8",
+
+    "app_id":"ca-app-pub-1729176900125482~3907058673",
+    "uid_appopen":"ca-app-pub-1729176900125482/1211618661",
+    "uid_connect":"ca-app-pub-1729176900125482/1211618661",
+    "uid_servers":"ca-app-pub-1729176900125482/1211618661",
+    "uid_refresh":"ca-app-pub-1729176900125482/1211618661",
+    "uid_native":"",
+
+    "appo_id":"",
+
+    "ad_title":"",
+    "ad_body":"The most feature-rich Telegram",
+    "ad_image":"https://play-lh.googleusercontent.com/Nz1sf62DbO2mYvf8P6GiPD1Bo2PGjAlFr7ODFD27pNiLbrihpJvyONPdl0jL16MXUzU=w480-h960-rw",
+    "ad_url":"https://play.google.com/store/apps/details?id=ellipi.messenger",
 }
