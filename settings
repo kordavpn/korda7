@@ -2,7 +2,9 @@
     "web_service":"https://github.com/kordavpn/korda7/raw/main/web6",
     "timer_hour":"2",
     "after_connect":"false",
-    "delay_full_millis":"8",
+    "delay_full_millis":"8000",
+
+    "appo_id":"",
 
     "app_id":"ca-app-pub-1729176900125482~3907058673",
     "uid_appopen":"ca-app-pub-1729176900125482/1211618661",
@@ -10,8 +12,6 @@
     "uid_connect":"ca-app-pub-1729176900125482/3570188690",
     "uid_refresh":"ca-app-pub-1729176900125482/8439371993",
     "uid_native":"",
-
-    "appo_id":"",
 
     "ad_title":"",
     "ad_body":"The most feature-rich Telegram",
